@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @flynnai
-- 👀 I’m interested in ... Web Development!
-- 🌱 I’m currently learning ... Web Development!
-- 💞️ I’m looking to collaborate on ... Web Development!
-- 📫 How to reach me ... Email! But I won't tell you what it is :/
+- 👀 I’m interested in containerization, browser automation, web development frameworks.
+- 📫 How to reach me ... check out my website https://afly.dev
